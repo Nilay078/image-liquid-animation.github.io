@@ -10,7 +10,7 @@ const params = {
     VELOCITY_DISSIPATION: .9,
     PRESSURE_ITERATIONS: 10,
     SPLAT_RADIUS: 3 / window.innerHeight,
-    color: {r: .5, g: .3, b: .8}
+    color: {r: .8, g: .5, b: .2}
 };
 
 const pointer = {
